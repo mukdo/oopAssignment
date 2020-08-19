@@ -1,0 +1,11 @@
+F:\dot net\oopAssignment\OODAssignment\OODAssignment\bin\Debug\netcoreapp3.1\OODAssignment.exe
+F:\dot net\oopAssignment\OODAssignment\OODAssignment\bin\Debug\netcoreapp3.1\OODAssignment.deps.json
+F:\dot net\oopAssignment\OODAssignment\OODAssignment\bin\Debug\netcoreapp3.1\OODAssignment.runtimeconfig.json
+F:\dot net\oopAssignment\OODAssignment\OODAssignment\bin\Debug\netcoreapp3.1\OODAssignment.runtimeconfig.dev.json
+F:\dot net\oopAssignment\OODAssignment\OODAssignment\bin\Debug\netcoreapp3.1\OODAssignment.dll
+F:\dot net\oopAssignment\OODAssignment\OODAssignment\bin\Debug\netcoreapp3.1\OODAssignment.pdb
+F:\dot net\oopAssignment\OODAssignment\OODAssignment\obj\Debug\netcoreapp3.1\OODAssignment.csprojAssemblyReference.cache
+F:\dot net\oopAssignment\OODAssignment\OODAssignment\obj\Debug\netcoreapp3.1\OODAssignment.AssemblyInfoInputs.cache
+F:\dot net\oopAssignment\OODAssignment\OODAssignment\obj\Debug\netcoreapp3.1\OODAssignment.AssemblyInfo.cs
+F:\dot net\oopAssignment\OODAssignment\OODAssignment\obj\Debug\netcoreapp3.1\OODAssignment.dll
+F:\dot net\oopAssignment\OODAssignment\OODAssignment\obj\Debug\netcoreapp3.1\OODAssignment.pdb
