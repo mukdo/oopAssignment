@@ -1,0 +1,11 @@
+F:\dot net\oopAssignment\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.exe
+F:\dot net\oopAssignment\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.deps.json
+F:\dot net\oopAssignment\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.runtimeconfig.json
+F:\dot net\oopAssignment\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.runtimeconfig.dev.json
+F:\dot net\oopAssignment\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.dll
+F:\dot net\oopAssignment\Assignment2\Assignment2\bin\Debug\netcoreapp3.1\Assignment2.pdb
+F:\dot net\oopAssignment\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.csprojAssemblyReference.cache
+F:\dot net\oopAssignment\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.AssemblyInfoInputs.cache
+F:\dot net\oopAssignment\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.AssemblyInfo.cs
+F:\dot net\oopAssignment\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.dll
+F:\dot net\oopAssignment\Assignment2\Assignment2\obj\Debug\netcoreapp3.1\Assignment2.pdb
